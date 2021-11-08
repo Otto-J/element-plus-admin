@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: h1 text
-tagline: h2 text
+heroText: element-plus-admin
+tagline: Always the element-plus latest version of admin project.
 actionText: reading
 actionLink: /start/
 
