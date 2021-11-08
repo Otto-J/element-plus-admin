@@ -1,10 +1,10 @@
 const data = require('./data.json')
 
 // todo 后续从 env 文件里读取
-const repoName = 'vitepress-docs-site-template/'
+const repoName = 'element-plus-admin'
 module.exports = {
-  title: 'h1',
-  description: 'h2',
+  title: 'element-plus-admin',
+  description: 'Always the element-plus latest version of admin project.',
   base: `/${repoName}`, // 请根据 readme 修改该参数
   lang: 'zh-CN',
   themeConfig: {
